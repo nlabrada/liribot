@@ -32,4 +32,8 @@ Language: English
 
 Plot: Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.
 
-Actors: William H. Macy, Steve Buscemi, Peter Stormare, Kristin Rudrüd
+Actors: William H. Macy, Steve Buscemi, Peter Stormare, Kristin RudrüdVenue: Zepp@Bigbox
+
+Location: Singapore
+
+Date: 08/21/2018

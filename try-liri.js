@@ -46,8 +46,8 @@ function concertThis(){
         else if (!err && response.statusCode === 200) {
             var concertData = JSON.parse(body);
             var concertArray = [
-                "Venue: " + concertData[0].body.venue.name,
-                "Location: " + concertData[0].body.venue.city,
+                "Venue: " + concertData[0].venue.name,
+                "Location: " + concertData[0].venue.city,
                 "Date: " + moment(concertData[0].datetime).format("MM/DD/YYYY")     
             ].join("\n\n");
 
